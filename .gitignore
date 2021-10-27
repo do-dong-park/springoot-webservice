@@ -1,2 +1,4 @@
 # Project exclude paths
-/.gradle/
+#프로젝트 실행시 자동으로 만들어지는 파일은 깃에 올리지 않는다.
+.gradle
+.idea
